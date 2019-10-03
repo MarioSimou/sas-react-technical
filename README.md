@@ -1,6 +1,6 @@
 # NowTV React Interview
 
-![NowTV](./logo.png)
+![NowTV](./src/assets/img/logo.png)
 
 ## Commands
 
