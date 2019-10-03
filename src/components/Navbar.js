@@ -6,14 +6,14 @@ import logo from "../assets/img/logo.png";
 
 const useStyles = makeStyles(theme => ({
   root: {
-    backgroundColor: theme.palette.primary.light,
-    marginBottom: theme.spacing(3)
+    backgroundColor: theme.palette.primary.main,
+    borderBottom: `1.5px solid ${theme.palette.secondary.main}`,
   },
   logo: {
     backgroundColor: "transparent",
-    width: theme.spacing(12),
+    width: theme.spacing(17.25),
     height: theme.spacing(4)
-  }
+  },
 }));
 
 const Navbar = () => {

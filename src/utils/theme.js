@@ -1,16 +1,13 @@
 import { createMuiTheme } from "@material-ui/core/styles";
 
 const primary = {
-  light: "#e8e8e8",
-  main: "#c4c4c4",
-  dark: "#939393",
+  main: "#011e30",
+  dark: "#000A11",
   contrastText: "#fff"
 };
 
 const secondary = {
-  light: "#ffe6d2",
-  main: "#ADD8E6",
-  dark: "#ffa052",
+  main: "#ff3d67",
   contrastText: "#fff"
 };
 
